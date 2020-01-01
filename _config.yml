@@ -2,6 +2,4 @@ theme: jekyll-theme-hacker
 title: jegadeeshvontlin.gitHub.io
 description: Embedded Firmware Engineer
 
-gems:
-  - jekyll-mentions
 
