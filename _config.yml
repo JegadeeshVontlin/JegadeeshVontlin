@@ -4,3 +4,5 @@ description: Embedded Firmware Engineer
 
 gems:
   - jekyll-mentions
+
+theme: jekyll-theme-hacker
