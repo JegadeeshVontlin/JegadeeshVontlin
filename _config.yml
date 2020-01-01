@@ -1,2 +1,6 @@
-title: jegadeeshvontlin.GitHub.io
+title: jegadeeshvontlin.gitHub.io
 description: Embedded Firmware Engineer
+
+
+gems:
+  - jekyll-mentions
