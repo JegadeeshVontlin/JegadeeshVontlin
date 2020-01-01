@@ -1,8 +1,6 @@
 title: jegadeeshvontlin.GitHub.io
-description: Hobby Coder
+description: Embedded Firmware Engineer
 google_analytics: 
-//show_downloads: true
-theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
